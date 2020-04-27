@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my Portfollio!
 
 You can use the [editor on GitHub](https://github.com/Salem101/SalemPortfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,11 +15,13 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+Languages: 
+-Java
+-Python
 
-1. Numbered
-2. List
+Things I hope to accomplish this year: 
+1. Become a better programmer
+2. Become fluent in Hebrew
 
 **Bold** and _Italic_ and `Code` text
 
