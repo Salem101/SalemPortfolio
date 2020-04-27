@@ -1,6 +1,6 @@
 ## Welcome to my Portfollio!
 
-You can use the [editor on GitHub](https://github.com/Salem101/SalemPortfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can checkout some of my projects on my GitHub (https://github.com/Salem101?tab=repositories) page. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
