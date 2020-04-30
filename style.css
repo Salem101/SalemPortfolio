@@ -39,5 +39,9 @@ html, body{
   text-align: center; 
   
 }
-
+a.active, .nav a:hover{
+  background-color: white;
+  color:black;
+  width: 100%;
+}
   
