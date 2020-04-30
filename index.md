@@ -2,6 +2,8 @@
 <html>
 <head>
       <title></title>
+      <style>
+            body{ background: url(https://isorepublic.com/wp-content/uploads/2019/07/iso-republic-abstract-shape-pattern-background-9-1100x786.jpg); background-size: 100% 100%;}
       <link rel= "stylesheet" type ="text/css" href = "css/style.css">
  </head>
 <body>
