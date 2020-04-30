@@ -33,8 +33,10 @@ html, body{
   margin: 5px 0; 
   float: left;
   display: inline-block; 
-  background-color: black;
-  color: white; 
+  background-color: white;
+  color: gray; 
+  line-height: 90px; 
+  text-align: center; 
   
 }
 
