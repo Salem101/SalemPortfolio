@@ -7,10 +7,10 @@
 <body>
 <div class = "background">
       <div class = "nav">
-            <a href="#">HOME</a>
-            <a href="#">ABOUT ME</a>
-            <a href="#">PORTFOLIO</a>
-            <a href="#">CONTACT</a>
+            <a class ="a" active href="#">HOME</a>
+            <a class ="b" href="#">ABOUT ME</a>
+            <a class ="c" href="#">PORTFOLIO</a>
+            <a class ="d" href="#">CONTACT</a>
             
 </div>
 </body>
