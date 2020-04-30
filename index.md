@@ -6,6 +6,7 @@
   </head>
   
   <body>
+    <img src = "18.jpg";
   </body>
   
   </html>
