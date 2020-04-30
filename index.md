@@ -9,7 +9,9 @@
   </head>
   
   <body>
-    <img src = "18.jpg";>
+      <p><b>My skills:</b>>
+      <p>Java</p>
+      <p>
   </body>
   
   </html>
