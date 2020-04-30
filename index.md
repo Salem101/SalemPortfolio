@@ -4,7 +4,7 @@
     </style>
   </head>
   
-  <body style = "background: black">
+  <body style = "background: url(https://www.chromethemer.com/wallpapers/chromebook-wallpapers/download/lights-of-color-3840x2160.jpg)">
   </body>
   
   </html>
