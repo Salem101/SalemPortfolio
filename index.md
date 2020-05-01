@@ -26,7 +26,7 @@
 			<li class="nav__item"><a href="#about" class="nav__link">About Me</a></li>
 			<li class="nav__item"><a href="#contact" class="nav__link">Contact</a></li>
 		</ul>
-//
+		</header>
 	<!--Introduction-->
 	<section class="intro" id="home">
 		<h1 class="section__title section__title--intro"></h1>
