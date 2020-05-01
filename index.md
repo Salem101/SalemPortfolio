@@ -58,7 +58,7 @@
             </div> <!-- / services -->
             
             <a href="#work" class="btn">My Work</a>
-        </section>
+        
         
         
             <!-- About me -->
