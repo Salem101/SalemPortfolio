@@ -13,6 +13,7 @@
  </head>
 <body>
 	<header>
+		   height: 2000px;
 		<div class ="logo">
 			<img src ="https://us.123rf.com/450wm/cougarsan/cougarsan1712/cougarsan171200155/92476994-the-golden-glitter-isolated-hand-writing-word-coming-soon-on-black-background.jpg?ver=6">
 		</div>
