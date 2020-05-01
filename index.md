@@ -65,6 +65,8 @@
         <section class="about-me" id="about">
            <h2 class="section__title section__title--about">About Me</h2>
            <p class="section__subtitle section__subtitle--about"></p>
+	   <p> Originally, I started at the Institute for Special Education. My plan was to work with kids in Special Education.</p>
+	   <p>Plan B was social work. After my first year I decided to purse computer science. My whole life I've been interested in computers but until then haven't thought about it as a career. I am now a Junior and am exciting to graduate soon!</p>
            
            <div class="about-me__body">
                <p></p>
